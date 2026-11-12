@@ -1,0 +1,19 @@
+.bootstrap/
+.venv/
+.data/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Local replay data and release artifacts
+/exports/
+/dist/
+/build/
+/VALIDATION.txt
+*.egg-info/
+*.log
+*.sqlite3
+*.sqlite3-wal
+*.sqlite3-shm
+.env
+.env.*
